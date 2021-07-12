@@ -29,7 +29,9 @@ VisualStudioCodeのブランチが表示されているところをクリック�
 feature2
 ```
 
+
 ブランチ名がfeature2になったのを確認しましたら再度index.htmlに修正を加えます。
+
 ![image](https://user-images.githubusercontent.com/60914189/125241827-ea0e4c00-e326-11eb-800b-2ae6bb62dbae.png)
 
 ### ⑵
