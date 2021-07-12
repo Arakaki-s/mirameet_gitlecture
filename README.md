@@ -36,5 +36,6 @@ feature2
 
 ### ⑵index.htmlを修正
 ブランチ名がfeature2になったのを確認しましたら再度index.htmlに修正を加えます。
+![image](https://user-images.githubusercontent.com/60914189/125242245-656ffd80-e327-11eb-83e5-bd5264e5fe11.png)
 
 
