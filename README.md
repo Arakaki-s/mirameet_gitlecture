@@ -1,4 +1,4 @@
-![スクリーンショット 2021-07-12 154901](https://user-images.githubusercontent.com/60914189/125243185-b502f900-e328-11eb-9fd4-0adc9f534c22.png)
+
 
 # Git超入門
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
