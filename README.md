@@ -60,3 +60,13 @@ feature2
 ```
 ![スクリーンショット 2021-07-12 160928](https://user-images.githubusercontent.com/60914189/125245491-981bf500-e32b-11eb-8935-7094f250cd2c.png)
 
+4.Commit changesをクリックし修正をコミットします。
+![image](https://user-images.githubusercontent.com/60914189/125245636-c568a300-e32b-11eb-9fa2-2d500df566d1.png)
+
+5.Vscodeに戻り、先ほどの修正をpullしてみましょう。
+
+ソースを保存した状態で左側メニューの＋マークをクリックし修正をステージにあげます。
+![スクリーンショット 2021-07-12 160928](https://user-images.githubusercontent.com/60914189/125245809-f8129b80-e32b-11eb-826c-730a0720ffb7.png)
+
+
+
