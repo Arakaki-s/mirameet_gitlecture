@@ -63,11 +63,29 @@ feature2
 4.Commit changesをクリックし修正をコミットします。
 ![image](https://user-images.githubusercontent.com/60914189/125245636-c568a300-e32b-11eb-9fa2-2d500df566d1.png)
 
-5.Vscodeに戻り、先ほどの修正をpullしてみましょう。
+5.Commit changesをクリックし修正をコミットします。
 
-ソースを保存した状態で左側メニューの＋マークをクリックし修正をステージにあげます。
+
 ![スクリーンショット 2021-07-12 160928](https://user-images.githubusercontent.com/60914189/125245809-f8129b80-e32b-11eb-826c-730a0720ffb7.png)
 これでmasterブランチのソースには32行目に文言が入った状態になりました。
+
+6.Vscodeに戻り、先ほどの修正をpullしてみましょう。
+
+ソースを保存した状態で左側メニューの＋マークをクリックし
+修正をステージにあげます。
+![スクリーンショット 2021-07-12 161928](https://user-images.githubusercontent.com/60914189/125246769-2e9ce600-e32d-11eb-9ebd-86639f825240.png)
+
+7.ステージにあげた修正をコミットします。 
+
+✓マークをクリックし「文書を追加」と入力しEnterキーを押します。
+![スクリーンショット 2021-07-12 162156](https://user-images.githubusercontent.com/60914189/125246883-4c6a4b00-e32d-11eb-8ce7-d1d98a71a8e9.png)
+
+8.Pushを行う
+…マークを押しメニューを出しその中のプッシュを選択します。
+<br>ブランチの公開が確認されるのでOKボタンをクリックします。
+![image](https://user-images.githubusercontent.com/60914189/125247038-79b6f900-e32d-11eb-8a8e-0664920d3797.png)
+![image](https://user-images.githubusercontent.com/60914189/125247055-7cb1e980-e32d-11eb-9c81-fba1fad454f5.png)
+
 
 
 
