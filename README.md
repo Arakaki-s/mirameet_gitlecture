@@ -90,7 +90,38 @@ feature2
 ![image](https://user-images.githubusercontent.com/60914189/125247055-7cb1e980-e32d-11eb-9c81-fba1fad454f5.png)
 
 
-
-
-
 ### ⑷コンフリクトの対処について
+1.GitHubに戻りプルリクエストを作成していきます。
+Compare & pull requestキーをクリックします。
+![image](https://user-images.githubusercontent.com/60914189/125247414-e205da80-e32d-11eb-8722-82b5c3c725df.png)
+
+2.Create pull requestキーをクリックします。
+![image](https://user-images.githubusercontent.com/60914189/125247477-f3e77d80-e32d-11eb-981b-312a6c5c65a9.png)
+
+3.コンフリクト解消
+Pullリクエストが作成されましたが先ほどと違いコンフリクトが発生しております。
+このままでは修正を反映できませんので、コンフリクトの解消を行いましょう。
+![スクリーンショット 2021-07-12 162831](https://user-images.githubusercontent.com/60914189/125247749-3d37cd00-e32e-11eb-9556-1628a0fc5c09.png)
+赤枠部分で上がfeature2、下がmasterでの状態を表示しています。
+今回はfeature2の内容で反映していきたいと思いますので33行目だけを残すように修正します。
+
+![スクリーンショット 2021-07-12 162934](https://user-images.githubusercontent.com/60914189/125247903-68222100-e32e-11eb-9c02-b843e598ccb7.png)
+
+修正後にMark as resolvedを押下し修正を反映します。
+コミットが出来るようになりますので
+Commmit mergeでコミットします。
+
+
+
+![image](https://user-images.githubusercontent.com/60914189/125247933-6f492f00-e32e-11eb-9952-f55652bbdff7.png)
+
+コンフリクトが解消したので、再度プルリクエストを作成します。
+Merge pullrequestをクリックします。
+![image](https://user-images.githubusercontent.com/60914189/125247966-7a03c400-e32e-11eb-8259-82a53471aef9.png)
+コンフリクトが解消したので、再度プルリクエストを作成します。
+Merge pullrequestをクリックします。
+
+![image](https://user-images.githubusercontent.com/60914189/125247985-825bff00-e32e-11eb-97a1-b51b5416eaa4.png)
+
+プルリクエストが正常に作成できました
+
