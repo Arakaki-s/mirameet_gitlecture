@@ -45,7 +45,7 @@ feature2
 ![スクリーンショット 2021-07-12 154425](https://user-images.githubusercontent.com/60914189/125242781-170f2e80-e328-11eb-9715-54c4ad45b955.png)
 
 ### ⑶コンフリクトを起こしてみる
-ここでコンフリクトを発生させるためにindex.htmlをGitHub上で直接編集したいと思います。
+1.ここでコンフリクトを発生させるためにindex.htmlをGitHub上で直接編集したいと思います。
 <br>GitHubを開き、index.htmlをクリックして下さい。
 ![スクリーンショット 2021-07-12 155402](https://user-images.githubusercontent.com/60914189/125243758-79b4fa00-e329-11eb-8fd9-d94548675985.png)
 
