@@ -18,6 +18,8 @@
 ### ⑴クローンする
 1.<>CodeタブのCodeからURLをコピーする。
 ![スクリーンショット 2021-07-12 172826](https://user-images.githubusercontent.com/60914189/125255643-9c014480-e336-11eb-9a22-2f1bfcc74525.png)
+
+
 今回はC:\User\ユーザーネー![スクリーンショット 2021-07-12 173359](https://user-images.githubusercontent.com/60914189/125256520-7a548d00-e337-11eb-9d05-3dee75ef5a03.png)
 ムにクローンします。
 <br>他の場所にクローンしたい方は”cd 任意のパス”で移動してからクローンしてください。
