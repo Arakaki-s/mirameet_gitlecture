@@ -16,8 +16,23 @@
 
 
 ### ⑴クローンする
+1.<>CodeタブのCodeからURLをコピーする。
+![image](https://user-images.githubusercontent.com/60914189/125254991-f64dd580-e335-11eb-869b-5ecdcfc0425d.png)
+今回はC:\User\ユーザーネームにクローンします。
+<br>他の場所にクローンしたい方は”cd 任意のパス”で移動してからクローンしてください。
+```
+$ git clone コピーしたURL
+```
+![image](https://user-images.githubusercontent.com/60914189/125255343-488ef680-e336-11eb-8b05-8878a72219a4.png)
+下記のような結果が返ってきたらクローンされています。
+![image](https://user-images.githubusercontent.com/60914189/125255384-517fc800-e336-11eb-9c35-79ac33a27a54.png)
+
 
 ### ⑵クローンしてきたプロジェクトをVscodeで開く
+任意のブランチ名（今回はfeature1)を入力してCreate branch:octo-branchを押下する
+
+![image](https://user-images.githubusercontent.com/60914189/125255450-68beb580-e336-11eb-8725-b8bc825a2ac8.png)
+
 
 ### ⑶Gitの基本設定をする
 
