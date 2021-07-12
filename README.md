@@ -69,4 +69,4 @@ feature2
 ![スクリーンショット 2021-07-12 160928](https://user-images.githubusercontent.com/60914189/125245809-f8129b80-e32b-11eb-826c-730a0720ffb7.png)
 
 
-
+### ⑷コンフリクトの対処について
