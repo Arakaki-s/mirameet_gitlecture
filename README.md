@@ -1,3 +1,4 @@
+![スクリーンショット 2021-07-12 154425](https://user-images.githubusercontent.com/60914189/125242761-11194d80-e328-11eb-9f74-383bbaab1ded.png)
 # Git超入門
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -43,5 +44,6 @@ feature2
 ```
 <h1>【Git入門】 コンフリクトを理解しよう</h1>
 ```
-![image](https://user-images.githubusercontent.com/60914189/125242446-a9fb9900-e327-11eb-8a98-e9a0df2fb267.png)
+![スクリーンショット 2021-07-12 154425](https://user-images.githubusercontent.com/60914189/125242781-170f2e80-e328-11eb-9715-54c4ad45b955.png)
+
 
