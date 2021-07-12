@@ -31,7 +31,7 @@
 ```
 feature2
 ```
-. ブランチ名がfeature2になったのを確認しましたら再度index.htmlに修正を加えます。
+2. ブランチ名がfeature2になったのを確認しましたら再度index.htmlに修正を加えます。
 ![スクリーンショット 2021-07-12 154901](https://user-images.githubusercontent.com/60914189/125243198-baf8da00-e328-11eb-9ddb-20dcf51affc1.png)
 
 ### ⑵index.htmlを修正
