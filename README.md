@@ -1,3 +1,4 @@
+![スクリーンショット 2021-07-12 154901](https://user-images.githubusercontent.com/60914189/125243185-b502f900-e328-11eb-9fd4-0adc9f534c22.png)
 
 # Git超入門
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -35,7 +36,7 @@ feature2
 
 ### ⑵index.htmlを修正
 ブランチ名がfeature2になったのを確認しましたら再度index.htmlに修正を加えます。
-![スクリーンショット 2021-07-12 154339](https://user-images.githubusercontent.com/60914189/125242646-f2b35200-e327-11eb-8774-517e1e9a2fb6.png)
+![スクリーンショット 2021-07-12 154901](https://user-images.githubusercontent.com/60914189/125243198-baf8da00-e328-11eb-9ddb-20dcf51affc1.png)
 
 
 
