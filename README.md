@@ -47,6 +47,7 @@ feature2
 ### ⑶コンフリクトを起こしてみる
 1.ここでコンフリクトを発生させるためにindex.htmlをGitHub上で直接編集したいと思います。
 <br>GitHubを開き、index.htmlをクリックして下さい。
+<br>
 ![スクリーンショット 2021-07-12 155402](https://user-images.githubusercontent.com/60914189/125243758-79b4fa00-e329-11eb-8fd9-d94548675985.png)
 
 
