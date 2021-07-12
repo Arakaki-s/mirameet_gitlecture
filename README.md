@@ -51,3 +51,12 @@ feature2
 ![スクリーンショット 2021-07-12 155402](https://user-images.githubusercontent.com/60914189/125243758-79b4fa00-e329-11eb-8fd9-d94548675985.png)
 
 
+2.index.htmlが表示されましたら右上のペンのマークの”Edit this file”をクリックし編集できるようにします。
+![スクリーンショット 2021-07-12 160724](https://user-images.githubusercontent.com/60914189/125245307-6145df00-e32b-11eb-9d05-840f8716644b.png)
+
+3.先ほどと同じ32行目に以下の文言を追加します。
+```
+<h1>【Git入門】 コンフリクトは注意が必要です。</h1>
+```
+![スクリーンショット 2021-07-12 160928](https://user-images.githubusercontent.com/60914189/125245491-981bf500-e32b-11eb-8935-7094f250cd2c.png)
+
