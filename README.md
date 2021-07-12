@@ -33,7 +33,7 @@ $ git clone コピーしたURL
 ![image](https://user-images.githubusercontent.com/60914189/125255384-517fc800-e336-11eb-9c35-79ac33a27a54.png)
 
 
-### ⑵クローンしてきたプロジェクトをVscodeで開く
+### ⑵ブランチを作成する
 任意のブランチ名（今回はfeature1)を入力してCreate branch:octo-branchを押下する
 
 ![スクリーンショット 2021-07-12 172826](https://user-images.githubusercontent.com/60914189/125256206-32ce0100-e337-11eb-86e1-a91b71488da3.png)
@@ -45,10 +45,16 @@ Visualstudiocodeを起動し、File＞OpenFolderを押下
 ![スクリーンショット 2021-07-12 173603](https://user-images.githubusercontent.com/60914189/125257010-f3ec7b00-e337-11eb-9884-0818a82ee859.png)
 
 
+### ⑶クローンしてきたプロジェクトをVscodeで開く
+先ほどクローンした場所まで移動
 
-### ⑶Gitの基本設定をする
+“mirameet_Git”を押下し、”フォルダー”に反映されたことを確認したら”フォルダーの選択”を押下
+![スクリーンショット 2021-07-12 174254](https://user-images.githubusercontent.com/60914189/125257696-a1f82500-e338-11eb-8aaf-3a61f80c3297.png)
 
-### ⑷リポジトリを初期化する
+
+
+
+### ⑷Gitの基本設定をする
 
 ### ⑸文言を書き換える
 
