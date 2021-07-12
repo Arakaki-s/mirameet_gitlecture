@@ -116,15 +116,16 @@ Commmit mergeでコミットします。
 ![image](https://user-images.githubusercontent.com/60914189/125247933-6f492f00-e32e-11eb-9952-f55652bbdff7.png)
 
 
-コンフリクトが解消したので、再度プルリクエストを作成します。
-Merge pullrequestをクリックします。
+
 ![image](https://user-images.githubusercontent.com/60914189/125247966-7a03c400-e32e-11eb-8259-82a53471aef9.png)
 
 
-コンフリクトが解消したので、再度プルリクエストを作成します。
-Merge pullrequestをクリックします。
-
 ![image](https://user-images.githubusercontent.com/60914189/125247985-825bff00-e32e-11eb-97a1-b51b5416eaa4.png)
 
+
+
+
+コンフリクトが解消したので、再度プルリクエストを作成します。
+Merge pullrequestをクリックします。
 プルリクエストが正常に作成できました
 
