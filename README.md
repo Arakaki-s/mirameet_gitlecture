@@ -18,7 +18,8 @@
 ### ⑴クローンする
 1.<>CodeタブのCodeからURLをコピーする。
 ![スクリーンショット 2021-07-12 172826](https://user-images.githubusercontent.com/60914189/125255643-9c014480-e336-11eb-9a22-2f1bfcc74525.png)
-今回はC:\User\ユーザーネームにクローンします。
+今回はC:\User\ユーザーネー![スクリーンショット 2021-07-12 173359](https://user-images.githubusercontent.com/60914189/125256520-7a548d00-e337-11eb-9d05-3dee75ef5a03.png)
+ムにクローンします。
 <br>他の場所にクローンしたい方は”cd 任意のパス”で移動してからクローンしてください。
 ```
 $ git clone コピーしたURL
@@ -31,7 +32,14 @@ $ git clone コピーしたURL
 ### ⑵クローンしてきたプロジェクトをVscodeで開く
 任意のブランチ名（今回はfeature1)を入力してCreate branch:octo-branchを押下する
 
-![image](https://user-images.githubusercontent.com/60914189/125255450-68beb580-e336-11eb-8725-b8bc825a2ac8.png)
+![スクリーンショット 2021-07-12 172826](https://user-images.githubusercontent.com/60914189/125256206-32ce0100-e337-11eb-86e1-a91b71488da3.png)
+
+ブランチがfeature1になっていることを確認してindex.htmlの中身を書き換える
+
+![Uploading スクリーンショット 2021-07-12 173359.png…]()
+Visualstudiocodeを起動し、File＞OpenFolderを押下
+![スクリーンショット 2021-07-12 173603](https://user-images.githubusercontent.com/60914189/125257010-f3ec7b00-e337-11eb-9884-0818a82ee859.png)
+
 
 
 ### ⑶Gitの基本設定をする
