@@ -33,5 +33,10 @@ feature2
 ### ⑵index.htmlを修正
 ブランチ名がfeature2になったのを確認しましたら再度index.htmlに修正を加えます。
 ![image](https://user-images.githubusercontent.com/60914189/125242245-656ffd80-e327-11eb-83e5-bd5264e5fe11.png)
-
+以下のソースをindex.htmlの31行目以降に挿入します。
+挿入後上書き保存を行いローカルの修正を確認しましょう。
+```
+<h1>【Git入門】 コンフリクトを理解しよう</h1>
+```
+![image](https://user-images.githubusercontent.com/60914189/125242446-a9fb9900-e327-11eb-8a98-e9a0df2fb267.png)
 
