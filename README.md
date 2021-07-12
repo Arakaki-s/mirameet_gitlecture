@@ -46,4 +46,4 @@ feature2
 ```
 ![スクリーンショット 2021-07-12 154425](https://user-images.githubusercontent.com/60914189/125242781-170f2e80-e328-11eb-9715-54c4ad45b955.png)
 
-
+### ⑶コンフリクトを起こしてみる
