@@ -5,7 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **目次**
 
-- 【Chapter 1】VisualStudioCodeでGit操作 "Merge pull request"まで!
+- 【Chapter 1】VisualStudioCodeでGit操作 "Merge pull request"まで!https://github.com/Arakaki-s/mirameet_gitlecture/blob/main/README.md#chapter-2%E3%82%B3%E3%83%B3%E3%83%95%E3%83%AA%E3%82%AF%E3%83%88%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95
 - 【Chapter 2】コンフリクトの対処法について
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
