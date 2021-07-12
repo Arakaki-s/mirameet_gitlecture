@@ -23,7 +23,7 @@
 # 【Chapter 2】コンフリクトの対処法
 
 ### ⑴新規でブランチを作成
-VisualStudioCodeのブランチが表示されているところをクリックし、ブランチ作成
+1.  VisualStudioCodeのブランチが表示されているところをクリックし、ブランチ作成
 ![スクリーンショット 2021-07-12 153032](https://user-images.githubusercontent.com/60914189/125241195-1ecdd380-e326-11eb-8cb0-1b67b4ce66ac.png)
 
 
@@ -31,7 +31,7 @@ VisualStudioCodeのブランチが表示されているところをクリック�
 ```
 feature2
 ```
-ブランチ名がfeature2になったのを確認しましたら再度index.htmlに修正を加えます。
+. ブランチ名がfeature2になったのを確認しましたら再度index.htmlに修正を加えます。
 ![スクリーンショット 2021-07-12 154901](https://user-images.githubusercontent.com/60914189/125243198-baf8da00-e328-11eb-9ddb-20dcf51affc1.png)
 
 ### ⑵index.htmlを修正
