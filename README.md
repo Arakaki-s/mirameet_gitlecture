@@ -30,6 +30,6 @@ feature2
 ```
 
 index.htmlが表示されましたら右上のペンのマークの”Edit this file”をクリックし編集できるようにします。
-![image](https://user-images.githubusercontent.com/60914189/125241748-cc40e700-e326-11eb-8588-340d2e93ce40.png)
+![image](https://user-images.githubusercontent.com/60914189/125241792-db279980-e326-11eb-8a40-f5f455fa7b35.png)
 
 ### ⑵
