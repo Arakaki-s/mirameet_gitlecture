@@ -4,7 +4,7 @@
 **目次**
 
 - 【Chapter 1】VisualStudioCodeでGit操作 "Merge pull request"まで!
-- 【Chapter 2】恐怖のコンフリクトの対処法について
+- 【Chapter 2】コンフリクトの対処法について
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -18,7 +18,7 @@
 
 ### ⑵
 
-# 【Chapter 2】恐怖のコンフリクトの対処法
+# 【Chapter 2】コンフリクトの対処法
 
 ### ⑴初めに
 
