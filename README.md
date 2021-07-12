@@ -22,6 +22,7 @@
 
 ### ⑴新規でブランチを作成
 VisualStudioCodeのブランチが表示されているところをクリックし、ブランチ作成
-![image](https://user-images.githubusercontent.com/60914189/125241036-e8905400-e325-11eb-84c4-a7430cf299cc.png)
+![スクリーンショット 2021-07-12 153032](https://user-images.githubusercontent.com/60914189/125241195-1ecdd380-e326-11eb-8cb0-1b67b4ce66ac.png)
+
 
 ### ⑵
