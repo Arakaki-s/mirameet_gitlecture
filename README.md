@@ -114,7 +114,7 @@ git remote –v
 ”fatal: remote origin already exists”というエラーが出たら下記コマンドを
 <br>実行し一度originを削除してから再度登録
 ```
-git remote rm origin”
+git remote rm origin
 ```
 ### ⑽ブランチの作成と移動
 Git branchを入力し現在のブランチを確認する。defaultのブランチのみ（mainまたはmaster)だったら新規でブランチを作成する。
