@@ -22,7 +22,7 @@
 
 今回はC:\User\ユーザーネームにクローンします。
 <br>他の場所にクローンしたい方は”cd 任意のパス”で移動してからクローンしてください。
-![スクリーンショット 2021-07-12 173359](https://user-images.githubusercontent.com/60914189/125256520-7a548d00-e337-11eb-9d05-3dee75ef5a03.png)
+
 
 
 ```
@@ -36,7 +36,7 @@ $ git clone コピーしたURL
 ### ⑵ブランチを作成する
 任意のブランチ名（今回はfeature1)を入力してCreate branch:octo-branchを押下する
 
-![スクリーンショット 2021-07-12 172826](https://user-images.githubusercontent.com/60914189/125256206-32ce0100-e337-11eb-86e1-a91b71488da3.png)
+![スクリーンショット 2021-07-12 173359](https://user-images.githubusercontent.com/60914189/125256520-7a548d00-e337-11eb-9d05-3dee75ef5a03.png)
 
 ブランチがfeature1になっていることを確認してindex.htmlの中身を書き換える
 Visualstudiocodeを起動し、File＞OpenFolderを押下
