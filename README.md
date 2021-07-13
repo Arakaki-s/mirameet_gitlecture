@@ -39,8 +39,6 @@ $ git clone コピーしたURL
 ![スクリーンショット 2021-07-12 172826](https://user-images.githubusercontent.com/60914189/125256206-32ce0100-e337-11eb-86e1-a91b71488da3.png)
 
 ブランチがfeature1になっていることを確認してindex.htmlの中身を書き換える
-
-![Uploading スクリーンショット 2021-07-12 173359.png…]()
 Visualstudiocodeを起動し、File＞OpenFolderを押下
 ![スクリーンショット 2021-07-12 173603](https://user-images.githubusercontent.com/60914189/125257010-f3ec7b00-e337-11eb-9884-0818a82ee859.png)
 
