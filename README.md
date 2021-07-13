@@ -5,14 +5,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **目次**
 
-- 【Chapter 1】VisualStudioCodeでGit操作 "Merge pull request"まで
+- 【Chapter 1】VisualStudioCodeでGit操作 
 - 【Chapter 2】コンフリクトの対処法について
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 ***
-# 【Chapter 1】VisualStudioCodeでGit操作 "Merge pull request"まで!
+# 【Chapter 1】VisualStudioCodeでGit操作 
 
 
 ### ⑴クローンする
