@@ -5,7 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **目次**
 
-- 【Chapter 1】VisualStudioCodeでGit操作 
+- 【Chapter 1】VisualStudioCodeでGit操作 (#chapter-1visualstudiocode%E3%81%A7git%E6%93%8D%E4%BD%9C)
 - 【Chapter 2】コンフリクトの対処法について
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
