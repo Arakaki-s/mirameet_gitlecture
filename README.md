@@ -142,23 +142,68 @@ git push –u origin feature1
 ![スクリーンショット 2021-07-13 144323](https://user-images.githubusercontent.com/60914189/125397303-b693f600-e3e8-11eb-891b-e24193f50dae.png)
 
 ### ⑿変更内容がGitHubに反映されたかの確認をする
+index.htmlの中身と最終更新日時を確認する。反映されていない場合はF5キーで更新し再度確認する。
+
+![スクリーンショット 2021-07-13 144714](https://user-images.githubusercontent.com/60914189/125397688-3ae67900-e3e9-11eb-9e56-c2b3d19d5e89.png)
 
 
-### ⒀
+画面上部に”feature1 had recent pushes 1 minute ago”のようなメッセージが表示されるのでCompare&pull requestを押下
 
-### ⒁
+### ⒀プルリクエストを作成する
+![スクリーンショット 2021-07-13 144802](https://user-images.githubusercontent.com/60914189/125397772-5baece80-e3e9-11eb-91f4-6f60ba53dd86.png)
 
-### ⒂
+### ⒁変更内容の確認
+変更内容の確認を見てみましょう。
 
-### ⒃
+![スクリーンショット 2021-07-13 144951](https://user-images.githubusercontent.com/60914189/125397940-99abf280-e3e9-11eb-8fea-3148941244b4.png)
 
-### ⒄
+### ⒂ソースコードの確認（レビュアー側の操作）
+「Pull requests」タブを開き、「Files changed」からソースコードを確認する。
+![スクリーンショット 2021-07-13 145119](https://user-images.githubusercontent.com/60914189/125398074-ceb84500-e3e9-11eb-9ef1-b1de8e26c547.png)
 
-### ⒅
 
-### ⒆
+### ⒃コメントを記載（レビュアー側の操作）
+コメントしたい箇所にカーソルをあてると青い”＋”アイコンが出てきて
+<br>コメントが記載出来るようになるので必要に応じてコメントを記載する
 
-### ⒇
+![スクリーンショット 2021-07-13 145245](https://user-images.githubusercontent.com/60914189/125398261-0de69600-e3ea-11eb-9d81-0cc5c9a4950b.png)
+
+記載したら”Start a review”を押下する
+
+### ⒄マージする（レビュアー側の操作）
+内容に問題がなければ、「Conversation」の「Merge pull request」をクリックしてレビューを完了する。
+![スクリーンショット 2021-07-13 145418](https://user-images.githubusercontent.com/60914189/125398399-3a9aad80-e3ea-11eb-992b-234151de16ba.png)
+
+
+### ⒅プルする（レビュアー側の操作）
+マージした内容（ここでは login.html ）をローカルリポジトリの master に取得し、最新化する必要がある。
+<br>この場合、 プル（pull） という操作を行うことで、リモートトリポジトリから変更内容を取得することができる
+
+![スクリーンショット 2021-07-13 152519](https://user-images.githubusercontent.com/60914189/125401792-96673580-e3ee-11eb-9fd1-9f61cd2c2177.png)
+
+
+デフォルトブランチに切り替える
+```
+git checkout master
+```
+プルする
+```
+git pull
+```
+### ⒆ディレクトリ内の確認をする（レビュアー側の操作）
+lsコマンドを実行すると、index.html を確認することができる。
+![スクリーンショット 2021-07-13 152632](https://user-images.githubusercontent.com/60914189/125401911-bb5ba880-e3ee-11eb-85ab-f79405a03cb7.png)
+
+
+
+### ⒇全作業の変更履歴を確認をする（レビュアー側の操作）
+git log コマンドを入力することで、これまでの全作業の変更履歴を確認もできる
+![スクリーンショット 2021-07-13 152802](https://user-images.githubusercontent.com/60914189/125402064-ee9e3780-e3ee-11eb-8b0b-44fc36fcd97c.png)
+
+### 修正箇所の確認をする（レビュアー側の操作）
+Masterブランチでのindex.htmlで先ほど書き換えた場所が確認出来る。
+![スクリーンショット 2021-07-13 153002](https://user-images.githubusercontent.com/60914189/125402315-3a50e100-e3ef-11eb-9a7d-03027cdc7d90.png)
+
 
 
 # 【Chapter 2】コンフリクトの対処法
