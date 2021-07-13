@@ -36,11 +36,12 @@ $ git clone コピーしたURL
 ### ⑵ブランチを作成する
 任意のブランチ名（今回はfeature1)を入力してCreate branch:octo-branchを押下する
 
-![スクリーンショット 2021-07-12 173359](https://user-images.githubusercontent.com/60914189/125256520-7a548d00-e337-11eb-9d05-3dee75ef5a03.png)
+
 ![スクリーンショット 2021-07-13 141356](https://user-images.githubusercontent.com/60914189/125394410-9c581900-e3e4-11eb-9040-1cdda0f71544.png)
 
 
 ブランチがfeature1になっていることを確認してindex.htmlの中身を書き換える
+![スクリーンショット 2021-07-12 173359](https://user-images.githubusercontent.com/60914189/125256520-7a548d00-e337-11eb-9d05-3dee75ef5a03.png)
 Visualstudiocodeを起動し、OpenFolderを押下
 ![スクリーンショット 2021-07-12 173603](https://user-images.githubusercontent.com/60914189/125257010-f3ec7b00-e337-11eb-9884-0818a82ee859.png)
 
