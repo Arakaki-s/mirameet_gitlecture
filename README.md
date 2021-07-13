@@ -17,7 +17,7 @@
 
 ### ⑴クローンする
 1.<>CodeタブのCodeからURLをコピーする。
-![スクリーンショット 2021-07-12 172826](https://user-images.githubusercontent.com/60914189/125255643-9c014480-e336-11eb-9a22-2f1bfcc74525.png)
+![スクリーンショット 2021-07-13 135828](https://user-images.githubusercontent.com/60914189/125394037-f73d4080-e3e3-11eb-9292-67ba978ae302.png)
 
 
 今回はC:\User\ユーザーネームにクローンします。
